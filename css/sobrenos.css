@@ -131,14 +131,3 @@ main {
   margin: 2px;
   text-align: center;
 }
-
-.footer-bg {
-  background-color: #75fccf;
-  padding: 20px;
-  display: grid;
-}
-
-.footer-bg p {
-  display: inline-block;
-  margin: 2px;
-  text-align: center;
