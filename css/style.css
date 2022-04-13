@@ -9,6 +9,9 @@ body {
   margin-bottom: 0px;
   display: grid;
 }
+img {
+  max-width: 100%;
+}
 ul {
   margin: 0px;
   padding: 0px;

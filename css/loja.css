@@ -14,7 +14,9 @@ ul {
   padding: 0px;
   list-style: none;
 }
-
+.produtoepreco img {
+  max-width: 100%;
+}
 a {
   text-decoration: none;
 }
