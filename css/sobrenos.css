@@ -75,6 +75,20 @@ main {
   border-radius: 20px;
 }
 
-.textosobrenos {
-  align-items: stretch;
+@media (max-width: 1300px) {
+  .conteudosobrenos {
+    display: block;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .conteudosobrenos img {
+    display: none;
+  }
+}
+
+@media (max-width: 900px) {
+  .conteudosobrenos {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
 }
